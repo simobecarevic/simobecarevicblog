@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simobecarevicblog/static/css/main.1233655c.css",
+    "main.js": "/simobecarevicblog/static/js/main.2740582f.js",
+    "index.html": "/simobecarevicblog/index.html",
+    "main.1233655c.css.map": "/simobecarevicblog/static/css/main.1233655c.css.map",
+    "main.2740582f.js.map": "/simobecarevicblog/static/js/main.2740582f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1233655c.css",
+    "static/js/main.2740582f.js"
+  ]
+}
